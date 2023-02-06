@@ -36,6 +36,15 @@ ul{
     padding: 44px 0; 
 }
 
+.titlehero{
+   font-size: 48px;
+   font-weight: 700;
+}
+
+p span{
+    display: block;
+}
+
 img{
     max-width: 350px;
 }
@@ -52,3 +61,29 @@ button{
     max-width: 450px;
 }
 
+.container{
+    display: flex; 
+    justify-content: center;
+    gap: 50px;
+}
+
+img{
+    width: 200px;
+}
+
+.info{
+    max-width: 200px;
+}
+
+.titleinfo{
+    text-align: center;
+    font-size: 36px;
+    margin: 44px 0;
+}
+
+.text{
+    text-align: center;
+}
+.text span{
+    display: block; 
+}
